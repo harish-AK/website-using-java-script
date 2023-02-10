@@ -1,1 +1,1 @@
-# website-using-java-script
+# simple outline for a website-using-java-script
